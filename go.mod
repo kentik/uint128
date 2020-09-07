@@ -1,3 +1,3 @@
-module lukechampine.com/uint128
+module github.com/kentik/uint128
 
 go 1.12
